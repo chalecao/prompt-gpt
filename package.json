@@ -60,6 +60,7 @@
     "test:cover": "nyc npm test",
     "coveralls": "cat ./coverage/lcov.info | coveralls",
     "build": "node tools/build",
+    "server": "http-server .",
     "prepublish": "npm run build",
     "publish:docs": "easystatic deploy docs --repo kriasoft/babel-starter-kit",
     "start": "easystatic start docs"
