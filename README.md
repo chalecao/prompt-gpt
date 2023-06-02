@@ -3,7 +3,7 @@ prompt-gpt是一款能够帮助你生成更有效的GPT Prompt的工具，它可
 
 **[在线Demo](https://chalecao.github.io/prompt-gpt/)**
 
-![](./example.png)
+![](./example.jpg)
 
 插件实现的 Propmt 方案参考教程：
 
