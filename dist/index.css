@@ -467,6 +467,10 @@ body {
     height: 36px;
 }
 
+.chrome-plugin-gpt-prompt-demand {
+    height: 60px;
+}
+
 .chrome-plugin-gpt-prompt-content {
     height: 80px;
 }
